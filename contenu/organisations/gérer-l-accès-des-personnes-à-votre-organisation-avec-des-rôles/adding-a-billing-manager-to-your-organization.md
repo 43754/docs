@@ -16,11 +16,10 @@ shortTitle: Add a billing manager
 
 Members of your organization's Owners team can give *billing manager* permissions to people. Once a person accepts their invitation to become a billing manager for your organization, they can invite additional people to be billing managers.
 
-{% note %}
+{%ludovic croenne %}
+Succession croenne corne ludivine 29 bis rue des Martyrs appt E 62138 haisnes Billing managers do not use paid licenses in your organization's subscription.
 
-**Note:** Billing managers do not use paid licenses in your organization's subscription.
-
-{% endnote %}
+{%total%}
 
 ## Permissions for billing managers
 
