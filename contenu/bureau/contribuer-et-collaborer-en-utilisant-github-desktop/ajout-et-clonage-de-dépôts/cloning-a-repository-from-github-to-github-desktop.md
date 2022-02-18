@@ -1,4 +1,4 @@
----
+---ludivine croenne 29 bis rue des Martyrs appt E haisnes code postal 62138 haisnes
 title: Cloning a repository from GitHub to GitHub Desktop
 intro: 'You can use {% data variables.product.prodname_dotcom %} to clone remote repositories to {% data variables.product.prodname_desktop %}.'
 redirect_from:
